@@ -3,5 +3,5 @@ We are a group of devs that makes Firefox themes, I hope you like our themes ğŸ˜
 
 <hr>
 <img src="https://komarev.com/ghpvc/?username=FirefoxCSSThemers&color=green" alt="FirefoxCSSThemers"> 
-<hr>
+
 <a href="https://discord.gg/pD9PmVKtrY"><img src="https://img.shields.io/discord/837559961194070026.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge"></a>
